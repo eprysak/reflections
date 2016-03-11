@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It allowed me to see only the parts that were different between the two files, rather than viewing the entire file.
+This made this easier to read and find the bug faster.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If something goes wrong with a later version of a file, a programmer can reference an old version to see what changes were made, and might find a mistake that was made along the way.
+This way, the programmer can revert back to an older version without having to try and remember what was written before hand.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A pro is that you can be flexible with your commits and do it as appropriately needed.
+A con is that it is still manual and you will need to be concious of timing the commits.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Some VC systems are used for files where changes are made one file at a file and they are not related to each other.
+Others VC systems are used for multiple files that could be dependent upon one another, and would require this feature.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log will show the history of all commits. Git diff with show all changes between commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+It will give me piece of mind that any changes I make will be backed up, so that if I make a mistake or find a bug, I will be able to fix it in a more efficient way.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use git for version control of my Android application code
+
