@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A .git folder is created. The files in the folder are needed for configuring the git settings for that repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is more temporary and allows flexibility in changing the contents, while the working directory and repository are more permanent.
