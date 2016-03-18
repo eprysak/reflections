@@ -13,3 +13,7 @@ You can use the staging area to review the specific files that need the logical 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you want to try different versions of your program, or are testing something experimental, you should use branches.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams show the different branches, where they branch off, and what commits are reachable or not.
