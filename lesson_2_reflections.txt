@@ -17,3 +17,8 @@ When you want to try different versions of your program, or are testing somethin
 How do the diagrams help you visualize the branch structure?
 
 The diagrams show the different branches, where they branch off, and what commits are reachable or not.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging the two branches together allows for two paths of code to be combined into one so that changes made by multiple people can be saved into the final version. 
+
