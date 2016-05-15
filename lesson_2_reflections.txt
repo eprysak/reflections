@@ -22,3 +22,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merging the two branches together allows for two paths of code to be combined into one so that changes made by multiple people can be saved into the final version. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Using Git for merging allows for smoother and quicker merging of content between versions of files, finding overlaps more efficiently.
