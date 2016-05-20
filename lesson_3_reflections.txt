@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Pulling manually gives you more control over when you should pull all of the changes made. Sometimes you are working with a group where multiple people are making changes, and it can get messy if too many changes are being made at once.
 Pulling manually helps you control the changes that you want in your local repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches are used locally when you want to write a write a slightly different piece of code within your current code without impacting the original code.
+Clones are used when you want to copy code from a remote to your local repository that can be pushed back to the original remote.
+Forks are used when you want to copy code from another person's remote and make your own changes to be pushed back to your version of the remote, rather than changing the original remote.
