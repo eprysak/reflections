@@ -16,3 +16,7 @@ Forks are used when you want to copy code from another person's remote and make 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can view changes made on the remote while you do not have internet access, and compare with the local repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be harder because you would not be able to keep track of changes made by others in the way that GitHub allows.
