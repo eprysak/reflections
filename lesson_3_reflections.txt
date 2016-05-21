@@ -20,3 +20,7 @@ You can view changes made on the remote while you do not have internet access, a
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 It would be harder because you would not be able to keep track of changes made by others in the way that GitHub allows.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making a change in a separate branch allows for the master code to remain unchanged while an experimental branch can be played with and new code can be added.
